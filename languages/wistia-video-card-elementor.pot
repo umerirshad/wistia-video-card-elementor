@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wistia Video Card Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+#: includes/widget-wistia-video-card.php:29
+msgid "Wistia Video Card"
+msgstr ""
+
+#: includes/widget-wistia-video-card.php:40
+msgid "Wistia Video URL"
+msgstr ""
+
+#: includes/widget-wistia-video-card.php:49
+msgid "Title"
+msgstr ""
+
+#: includes/widget-wistia-video-card.php:85
+msgid "Please enter a Wistia video URL."
+msgstr ""
