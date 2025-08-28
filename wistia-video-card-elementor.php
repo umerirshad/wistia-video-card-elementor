@@ -10,7 +10,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       wistia-video-card-elementor
  * Domain Path:       /languages
- *
+ * Requires Plugins: elementor
  * @package Wistia_Video_Card_Elementor
  */
 
