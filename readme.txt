@@ -1,5 +1,5 @@
 === Wistia Video Card Elementor ===
-Contributors: umer Irshad
+Contributors: umerirshad
 Tags: wistia, elementor, video, embed
 Requires at least: 5.6
 Tested up to: 6.8
